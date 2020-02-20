@@ -16,11 +16,11 @@ When the *observable* changes the *observers* are notified.
 
 ## UML Diagram
 
-![alt text](https://github.com/tinchovictory/designpatterns/raw/master/assets/observerpattern/uml.png "UML Diagram")
+![alt text](https://github.com/tinchovictory/DesignPatterns/raw/master/Assets/ObserverPattern/uml.png "UML Diagram")
 
 ## Example
 
-![alt text](https://github.com/tinchovictory/designpatterns/raw/master/assets/observerpattern/example.png "UML Example Diagram")
+![alt text](https://github.com/tinchovictory/DesignPatterns/raw/master/Assets/ObserverPattern/example.png "UML Example Diagram")
 
 
 ```
