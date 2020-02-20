@@ -1,7 +1,7 @@
 # Design Patterns
 
 * Strategy Pattern
-* Observer Pattern
+* [Observer Pattern](https://github.com/tinchovictory/DesignPatterns/blob/master/ObserverPattern.md)
 * Decorator Pattern
 * Factory Method Pattern
 * Abstract Factory Pattern
