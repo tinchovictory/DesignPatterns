@@ -3,7 +3,7 @@
 * Strategy Pattern
 * [Observer Pattern](https://github.com/tinchovictory/DesignPatterns/blob/master/ObserverPattern.md)
 * [Decorator Pattern](https://github.com/tinchovictory/DesignPatterns/blob/master/DecoratorPattern.md)
-* Factory Method Pattern
+* [Factory Method Pattern](https://github.com/tinchovictory/DesignPatterns/blob/master/FactoryMethodPattern.md)
 * Abstract Factory Pattern
 * Singleton Pattern
 * Command Pattern
